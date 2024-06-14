@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_M.V.MUTHIAH GOVERNMENT</name>
+   <tag></tag>
+   <elementGuidId>89e75917-9bef-41d9-8596-3a78e1dea954</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hero_video']/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;M.V.MUTHIAH GOVERNMENT&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e08b88e0-06c0-416b-8927-688a55de88a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M.V.MUTHIAH GOVERNMENT</value>
+      <webElementGuid>6d83875d-95a2-48ba-bbca-a18ac3f80259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero_video&quot;)/div[1]/h3[1]</value>
+      <webElementGuid>6c3ac1dc-80f3-4d5a-9aad-7f4dfd2d638f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hero_video']/div/h3</value>
+      <webElementGuid>462f885a-815d-4abd-a901-903b4a1bf99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2022'])[1]/following::h3[1]</value>
+      <webElementGuid>3c2d337d-ba54-4bb0-bfaa-1a727028f587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Library Gallery'])[1]/following::h3[1]</value>
+      <webElementGuid>9262f4d9-f817-4960-b1ef-d1004b339a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARTS COLLEGE FOR WOMEN'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6a5a0075-4b53-4d32-b1c6-20867ba179c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IQAC'])[3]/preceding::h3[1]</value>
+      <webElementGuid>d99ced32-6c10-401b-abf7-ab2fbdbb971d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='M.V.MUTHIAH GOVERNMENT']/parent::*</value>
+      <webElementGuid>832883a1-df34-493b-82ae-a30220453c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>aeb9d22d-374a-47b8-8ba1-af5dd74934e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'M.V.MUTHIAH GOVERNMENT' or . = 'M.V.MUTHIAH GOVERNMENT')]</value>
+      <webElementGuid>38ee3b50-3ed0-4a90-a834-f3fb8aad1c5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

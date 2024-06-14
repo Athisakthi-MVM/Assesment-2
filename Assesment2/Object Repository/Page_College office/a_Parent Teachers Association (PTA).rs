@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Parent Teachers Association (PTA)</name>
+   <tag></tag>
+   <elementGuidId>9db0c34b-ef6e-477a-9c61-0a6a388b47c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-286']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-286 > span > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Parent Teachers Association (PTA)&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3697c777-01ea-4f74-892a-b2f7e509da49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/page/parent-teachers-association-pta.html</value>
+      <webElementGuid>44c6efdd-593d-4296-b03b-dfd50314df44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parent Teachers Association (PTA)</value>
+      <webElementGuid>89fcfb6b-30e9-4a86-bb01-90dccea04a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-286&quot;)/span[1]/a[1]</value>
+      <webElementGuid>1bebd61f-68b0-4617-a931-9081c000a107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-286']/span/a</value>
+      <webElementGuid>bca1d6f8-e0b1-4878-9c54-945e4d29b8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Parent Teachers Association (PTA)')])[3]</value>
+      <webElementGuid>869f9f15-17e8-462f-92b1-f79f478d9d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training &amp; Placement Cell'])[3]/following::a[1]</value>
+      <webElementGuid>4a81d2b4-b055-4da4-9ef5-40cb4538cfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Counseling Cell'])[3]/following::a[2]</value>
+      <webElementGuid>cb5ebb03-a8e9-40f2-8a5a-0db9c14a8d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Old Student Association (OSA)'])[3]/preceding::a[1]</value>
+      <webElementGuid>30af5b15-2512-452d-a0a6-dd41fcefee55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scholarship'])[3]/preceding::a[2]</value>
+      <webElementGuid>e0d9b745-09db-474f-9af9-4231722a2e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/page/parent-teachers-association-pta.html')])[3]</value>
+      <webElementGuid>fd7f4d8c-5937-4be4-86ed-da63e7ee928e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/ul/li[7]/span/a</value>
+      <webElementGuid>f9bdaca7-d417-465d-89aa-04ebd762d4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/page/parent-teachers-association-pta.html' and (text() = 'Parent Teachers Association (PTA)' or . = 'Parent Teachers Association (PTA)')]</value>
+      <webElementGuid>93c27138-29ba-441d-88bf-5da096d2bb33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

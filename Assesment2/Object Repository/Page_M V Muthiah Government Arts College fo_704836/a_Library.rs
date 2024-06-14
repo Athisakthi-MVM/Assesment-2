@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Library</name>
+   <tag></tag>
+   <elementGuidId>e54eafaa-17e4-4b4d-b276-4a952d996635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-327']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-327 > span > a.hidden-md.hidden-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-item-327 >> internal:role=link[name=&quot;Library&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f79a8443-1972-4256-adc7-5666373d2bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/page/library.html</value>
+      <webElementGuid>3d764c69-227b-41ec-a304-f99558957249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-md hidden-lg</value>
+      <webElementGuid>7679076e-2e56-4381-a0e5-fa41d1d18d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Library</value>
+      <webElementGuid>cfa29317-cd7e-47f5-969e-5e2d41f3b5f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-327&quot;)/span[1]/a[@class=&quot;hidden-md hidden-lg&quot;]</value>
+      <webElementGuid>731ac53b-579c-4eb5-b77c-464528086869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-327']/span/a</value>
+      <webElementGuid>1e9131fd-6e8d-453e-b017-7bf99e05887f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Library')])[21]</value>
+      <webElementGuid>de0cb30d-57e5-427c-aab9-042e423732ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ENVIRONMENTAL PROMOTION'])[2]/following::a[1]</value>
+      <webElementGuid>ee7ff55c-da93-4ea8-b169-b50deb7b36f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARE System'])[2]/following::a[2]</value>
+      <webElementGuid>a64dad18-edbe-481c-8e9c-62329219dd4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::a[1]</value>
+      <webElementGuid>8f67e736-d851-4a2c-9682-61da89642ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision, Mission &amp; Moto'])[2]/preceding::a[2]</value>
+      <webElementGuid>7ff2f424-b353-4ad7-8df3-c64550eb00db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/page/library.html')])[2]</value>
+      <webElementGuid>421c517e-6042-4639-87fe-1dbd28e7b069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[11]/span/a</value>
+      <webElementGuid>d6cb306d-4141-434c-82b5-e8e289431343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/page/library.html' and (text() = 'Library' or . = 'Library')]</value>
+      <webElementGuid>88a3b825-8503-43c5-82a2-9b0e33e47835</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

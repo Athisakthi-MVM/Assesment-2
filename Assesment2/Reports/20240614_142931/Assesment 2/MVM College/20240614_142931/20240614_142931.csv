@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MVM College,Chrome 125.0.0.0,,,14-06-2024 14:29:39,14-06-2024 14:31:24,1m - 45.380s,FAILED
+,,,,,,,
+Test Cases/Assesment 2/MVM College,Chrome 125.0.0.0,,,14-06-2024 14:31:04,14-06-2024 14:31:24,20.623s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:31:04,14-06-2024 14:31:06,2.106s,PASSED
+"navigateToUrl(""https://www.bing.com/ck/a?!&&p=d3af9dec563b0379JmltdHM9MTcxODMyMzIwMCZpZ3VpZD0zMzI0MmVkZi04MDQ2LTZjZWYtMDNlOC0zZmFkODFmNDZkNTcmaW5zaWQ9NTIxMw&ptn=3&ver=2&hsh=3&fclid=33242edf-8046-6cef-03e8-3fad81f46d57&psq=mvm+college&u=a1aHR0cHM6Ly9tdm13Z2FjZGdsLmFjLmluLw&ntb=1"")",Chrome 125.0.0.0,,,14-06-2024 14:31:06,14-06-2024 14:31:10,4.144s,PASSED
+"click(findTestObject(""Object Repository/Page_M V Muthiah Government Arts College fo_704836/a_Next_fancybox-item fancybox-close""))",Chrome 125.0.0.0,,,14-06-2024 14:31:10,14-06-2024 14:31:23,13.274s,PASSED
+"click(findTestObject(""Object Repository/Page_M V Muthiah Government Arts College fo_704836/a_About us""))",Chrome 125.0.0.0,,,14-06-2024 14:31:23,14-06-2024 14:31:24,1.028s,FAILED

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IQAC</name>
+   <tag></tag>
+   <elementGuidId>d6b38e82-f50b-459f-93ab-064e2f4dd3fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='grid_home']/li/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.short_info > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#grid_home >> internal:role=link[name=&quot;IQAC&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e5a4b872-ce9f-43df-8cb3-fee660546057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IQAC</value>
+      <webElementGuid>91d8fc04-56ca-4c8d-b230-d9dc449f70e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid_home&quot;)/li[1]/a[@class=&quot;img_container&quot;]/div[@class=&quot;short_info&quot;]/span[1]</value>
+      <webElementGuid>20fd374b-4c71-4009-9c7c-56deb52a02c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='grid_home']/li/a/div/span</value>
+      <webElementGuid>991e6be4-3f21-43ad-8416-8937c5ef39b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARTS COLLEGE FOR WOMEN'])[1]/following::span[2]</value>
+      <webElementGuid>c241b945-7af5-41ab-8d8f-51ec7481dd1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M.V.MUTHIAH GOVERNMENT'])[1]/following::span[2]</value>
+      <webElementGuid>7b019486-8b0d-41ee-a5d0-a17c480ea2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAAC'])[4]/preceding::span[1]</value>
+      <webElementGuid>82246f54-7260-481c-8602-dde303145d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIRF'])[2]/preceding::span[2]</value>
+      <webElementGuid>da261d85-d9d8-4fbd-a292-0b05b51bd07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>ced6ed88-b670-4173-b15b-3f2c66007dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IQAC' or . = 'IQAC')]</value>
+      <webElementGuid>5a7d45e5-dd7f-49dc-b621-f0a1fffeef3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

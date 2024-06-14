@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Extended Profile</name>
+   <tag></tag>
+   <elementGuidId>08267d76-2300-4130-bd18-a5c56002bbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sidemenu-item-9']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sidemenu-item-9 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Extended Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae486ad0-d343-499f-9d97-b7738036dbfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/naac/index/extended-profile.html</value>
+      <webElementGuid>9525c793-f23b-49dc-bbd6-62681e237544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Extended Profile</value>
+      <webElementGuid>d77dff23-5614-443a-9ece-f7a8622b1f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidemenu-item-9&quot;)/a[1]</value>
+      <webElementGuid>6d2e94ab-c169-4fde-b4be-190f06910a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sidemenu-item-9']/a</value>
+      <webElementGuid>cd69b793-2105-42b9-9c73-12e893eba8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Extended Profile')])[2]</value>
+      <webElementGuid>4d9e8cfa-aa38-45d5-be6c-09664aa4041f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criterion 7'])[1]/following::a[1]</value>
+      <webElementGuid>05944549-ce95-4f9f-a3a3-524f7f9b1937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criterion 6'])[1]/following::a[2]</value>
+      <webElementGuid>ab64e074-329d-4873-b05d-b092f4e95281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DVV Clarifications'])[1]/preceding::a[1]</value>
+      <webElementGuid>cf4a6640-f4b3-4424-bbdc-86e884551a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criterion 7 : - Institutional Values and Best Practices'])[1]/preceding::a[2]</value>
+      <webElementGuid>030b6656-4cf9-4591-b226-ee9d21b93ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/naac/index/extended-profile.html')])[2]</value>
+      <webElementGuid>55c61a39-a01f-4283-92d7-0b021a68f07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[8]/a</value>
+      <webElementGuid>b846aa4d-49cc-4951-9de7-e1a80f851bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/naac/index/extended-profile.html' and (text() = ' Extended Profile' or . = ' Extended Profile')]</value>
+      <webElementGuid>75be36ed-ea2d-4add-9239-e88e73a3cc7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
